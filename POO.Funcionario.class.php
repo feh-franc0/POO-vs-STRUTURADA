@@ -1,5 +1,5 @@
 <?php
-//estrutura da classe(objeto)
+//estrutura da classe Funcionario(objeto)
 class Funcionario {
 
     private $nome;
